@@ -1,2 +1,1 @@
-# Assignments
-AngularJS Projects
+# Projects
